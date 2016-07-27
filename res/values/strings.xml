@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name = "spinner_items">
+        <item>Cairo,EG</item>
+        <item>Venice,CA</item>
+    </string-array>
+    <string-array name = "degree_items">
+        <item>F</item>
+        <item>C</item>
+        
+    </string-array>
+    
+
+</resources>
